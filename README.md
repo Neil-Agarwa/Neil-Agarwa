@@ -3,7 +3,7 @@ Who I Am
 
 I’m an Electrical and Computer Engineering student at UT Austin driven by a passion for embedded hardware, low-level programming, and IoT systems. I enjoy turning abstract ideas into working prototypes — whether that means writing interrupt-driven firmware, designing a PCB, or building a wireless robot from the ground up.
 
-Areas I Work In
+## Areas I Work In
 
 Microcontrollers & Firmware: Programming ESP32, STM32, MSPM0, and Arduino boards in C/C++ and Assembly, with a focus on peripheral integration and real-time control.
 
@@ -13,7 +13,7 @@ Electronics & Hardware: Circuit design, PCB layout in KiCad, and debugging with 
 
 Control & Processing: Implementing motor control with PWM, signal filtering, and data acquisition pipelines using DMA and ADCs.
 
-What I Know
+## What I Know
 
 Languages: Python, C, C++, Assembly, Verilog, HTML/CSS
 
@@ -21,7 +21,7 @@ Hardware Platforms: ESP32/ESP8266, STM32 Nucleo, Arduino, MSPM0G3507
 
 Tools & Workflows: KiCad, Git/GitHub, Linux shell, Firebase, lab test equipment
 
-Things I’ve Built
+## Things I’ve Built
 
 Roomable – Smart occupancy monitoring platform combining ESP8266, Firebase, and a React Native mobile interface.
 
