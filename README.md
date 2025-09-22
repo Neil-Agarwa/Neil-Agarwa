@@ -1,5 +1,5 @@
-## Hi there, I'm Neil Agarwal 👋
-Who I Am
+##                   Hi There, I'm Neil Agarwal 👋
+## Who I Am
 
 I’m an Electrical and Computer Engineering student at UT Austin driven by a passion for embedded hardware, low-level programming, and IoT systems. I enjoy turning abstract ideas into working prototypes — whether that means writing interrupt-driven firmware, designing a PCB, or building a wireless robot from the ground up.
 
